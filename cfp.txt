@@ -36,6 +36,6 @@ Ross Duncan, Quantinuum, ross.duncan@quantinuum.com
 Thomas Häner, Amazon Web Services, thaener@amazon.com
 Ali Javadi-Abhari, IBM Quantum, ali.javadi@ibm.com
 Aleks Kissinger, University of Oxford, Aleks.kissinger@cs.ox.ac.uk
-Neil J. Ross, Dalhousie University, neil.jr.ross@gmail.com
+Neil J. Ross, Dalhousie University, Neil.JR.Ross@Dal.Ca
 Mathias Soeken, Microsoft and EPFL, mathias.soeken@epfl.ch
 Benoit Valiron, Université Paris Saclay, benoit.valiron@universite-paris-saclay.fr
