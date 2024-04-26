@@ -39,3 +39,4 @@ Aleks Kissinger, University of Oxford, Aleks.kissinger@cs.ox.ac.uk
 Neil J. Ross, Dalhousie University, Neil.JR.Ross@Dal.Ca
 Mathias Soeken, Microsoft and EPFL, mathias.soeken@epfl.ch
 Benoit Valiron, Université Paris Saclay, benoit.valiron@universite-paris-saclay.fr
+Raphael Seidel, Fraunhofer FOKUS, raphael.seidel@fokus.fraunhofer.de
