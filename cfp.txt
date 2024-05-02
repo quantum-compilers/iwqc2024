@@ -28,7 +28,7 @@ Topics of interest for the workshop include :
 Accepted submissions should be presented in person in Berlin — please note the workshop dates! Submissions must point out who will present the contribution if it is selected.
 
 Submission is via EasyChair. Please submit your contribution here:
-https://easychair.org/conferences/?conf=iwqc24
+https://easychair.org/conferences/?conf=iwqc2024
 
 Programme Committee
 ---
