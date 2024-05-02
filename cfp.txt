@@ -37,6 +37,6 @@ Thomas Häner, Amazon Web Services, thaener@amazon.com
 Ali Javadi-Abhari, IBM Quantum, ali.javadi@ibm.com
 Aleks Kissinger, University of Oxford, Aleks.kissinger@cs.ox.ac.uk
 Neil J. Ross, Dalhousie University, Neil.JR.Ross@Dal.Ca
+Raphael Seidel, Fraunhofer FOKUS, raphael.seidel@fokus.fraunhofer.de
 Mathias Soeken, Microsoft and EPFL, mathias.soeken@epfl.ch
 Benoit Valiron, Université Paris Saclay, benoit.valiron@universite-paris-saclay.fr
-Raphael Seidel, Fraunhofer FOKUS, raphael.seidel@fokus.fraunhofer.de
