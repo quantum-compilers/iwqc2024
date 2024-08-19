@@ -43,6 +43,15 @@ with open(filename) as csvfile:
                 if row["paper"] == "True" :
                     print(links.format(paper_num=row["Num"]))
                 print(end)
+            if mode == "p" :
+                print("<!-- record starts -->")
+                print(start_p)
+                print(main.format(
+                    authors=row["Authors"],
+                    title=row["Title"],
+                    paper_num=row["Num"]
+                ))
+                print(end)
         
 
 
